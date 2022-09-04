@@ -36,7 +36,7 @@
   
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanhircin&layout=compact&theme=react" />
+      <img width="375" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanhircin&langs_count=6&layout=compact&theme=react" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width="450" src="https://github-readme-stats.vercel.app/api?username=kaanhircin&show_icons=true&theme=react" />
