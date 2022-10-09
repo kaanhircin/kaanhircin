@@ -11,7 +11,7 @@
 </h2>
 
 <h3 align="center">
-  💻 I'm currently learning Python for data science, ML and AI in additon to web languages and technologies.
+  💻 I'm currently learning JavaScript in additon to other web languages and technologies.
 </h3>
 
 <h3 align="center">
