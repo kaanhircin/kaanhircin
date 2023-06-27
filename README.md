@@ -7,7 +7,7 @@
 </h1>
 
 <h2 align="center">
-  I'm Kaan Hırçın. Computer Engineering Student at Kocaeli University.
+  I'm Kaan Hırçın. I graduated computer engineering at Kocaeli University. I am currently working at Scorp as QA Specialist.
 </h2>
 
 <h3 align="center">
