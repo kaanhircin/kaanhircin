@@ -11,7 +11,7 @@
 </h2>
 
 <h3 align="center">
-  💻 I'm currently learning JavaScript in additon to other web languages and technologies.
+  💻 I'm learning JavaScript in additon to other web languages and technologies now.
 </h3>
 
 <h3 align="center">
